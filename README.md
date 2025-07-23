@@ -5,7 +5,7 @@ Quantum Computing Resources &amp; Syllabus, Mind Map Format,
 
 This repository contains two detailed mind maps designed to assist learners, educators, and self-studiers in the field of Quantum Computing:
 
-** Quantum Computing Resources**
+**Quantum Computing Resources**
 A curated visual collection of essential learning materials, including lecture notes, textbooks, video lectures, online courses, and tutorials, all organized into a structured format with active hyperlinks for quick and easy access.
 
 **Quantum Computing Syllabus**
