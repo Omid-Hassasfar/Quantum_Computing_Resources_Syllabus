@@ -11,4 +11,4 @@ A curated visual collection of essential learning materials, including lecture n
 **Quantum Computing Syllabus**
 A visual course overview outlining the main topics and concepts typically covered in a foundational or intermediate quantum computing course. This is especially useful for course planning, personal study roadmaps, or onboarding new learners.
 
-*This collection is the result of years of hands-on experience and exploration in the quantum field. It goes far beyond simply asking an AI to compile a list!*
+*This collection is the result of years of hands-on experience and exploration in the quantum physics and quantum computing. It goes far beyond simply asking an AI to compile a list! 😉*
