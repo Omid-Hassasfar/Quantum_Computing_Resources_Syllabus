@@ -12,7 +12,7 @@ A curated **visual collection** of essential learning materials:
 - 📚 Lecture notes & textbooks  
 - 🎥 Video lectures & online courses  
 - 🧑‍💻 Tutorials & hands-on materials  
-- 🔗 Includes **hyperlinks** for quick and easy access  
+- 🔗 Includes **hyperlinks** to courses and textbooks for quick and easy access  
 
 ---
 
@@ -33,4 +33,7 @@ Useful for:
 ---
 
 📄 **Both mind maps are provided in PDF format** for easy navigation, printing, and sharing.
+
+🛠️ Note: These files are regularly updated to reflect the latest resources, tools, 
+and curriculum improvements in the field of quantum computing. Stay tuned for new additions!
 
