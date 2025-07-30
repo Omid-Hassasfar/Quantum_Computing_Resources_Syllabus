@@ -26,14 +26,15 @@ Useful for:
 
 ---
 
-> 🛠️ *Originally created for the 2023 Stellenbosch Honours course in Quantum Computing, this resource has been continually updated and expanded.*
+> 🛠️ *Originally created for the 2023 Stellenbosch (South Africa) Honours-level course in Quantum Computing, this resource has been continually updated and expanded. I am still actively improving it to reflect new materials, tools, and learning pathways as the field evolves.*
 
-> ✨ *This collection is the result of years of hands-on experience and exploration in quantum physics and quantum computing. It goes far beyond simply asking an AI to compile a list!* 😉
+> ✨ *This collection is the result of years of hands-on experience, teaching in courses and workshops, and deep exploration in quantum computing and quantum physics. It goes far beyond simply asking an AI to generate a list, although AI did help me write this Markdown a lot faster!* 😉
 
 ---
 
 📄 **Both mind maps are provided in PDF format** for easy navigation, printing, and sharing.
 
-🛠️ Note: These files are regularly updated to reflect the latest resources, tools, 
-and curriculum improvements in the field of quantum computing. Stay tuned for new additions!
+🛠️ Note: These files are regularly updated to reflect the latest resources, tools, and curriculum improvements in the field of quantum computing. Stay tuned for new additions!
+
+💬 For any feedback or suggestions, feel free to reach out to me: https://linktr.ee/hassasfar
 
