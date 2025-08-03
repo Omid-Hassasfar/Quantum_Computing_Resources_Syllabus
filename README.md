@@ -26,9 +26,9 @@ Useful for:
 
 ---
 
-> 🛠️ *Originally created for the 2023 Stellenbosch (South Africa) Honours-level course in Quantum Computing, this resource has been continually updated and expanded. I am still actively improving it to reflect new materials, tools, and learning pathways as the field evolves.*
+> 🛠️ *Originally created for the 2023 Stellenbosch University (South Africa) Honours-level course in Quantum Computing, and further used and refined in 2024 and 2025, this resource has been continually updated and expanded. I am still actively improving it to reflect new materials, tools, and learning pathways as the field evolves.*
 
-> ✨ *This collection is the result of years of hands-on experience, teaching in courses and workshops, and deep exploration in quantum computing and quantum physics. It goes far beyond simply asking an AI to generate a list, although AI did help me write this Markdown a lot faster!* 😉
+> ✨ *This collection is the result of years of hands-on experience, learning, and teaching in courses and workshops, and exploration in quantum computing and quantum physics. It goes beyond simply asking an AI to generate a list. Although AI did help me write this Markdown a lot faster!* 😉
 
 ---
 
