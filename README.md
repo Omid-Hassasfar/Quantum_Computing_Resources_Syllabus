@@ -4,6 +4,10 @@
 
 This repository includes **two detailed mind maps** to support learners, educators, and self-studiers in the field of **Quantum Computing**:
 
+> **Please note:** These are vector-based PDFs.  
+> To ensure the best viewing experience, download the files first.  
+> You can then zoom in as much as you want without any loss in quality.
+
 ---
 
 ## 📘 1. Quantum Computing Resources  
